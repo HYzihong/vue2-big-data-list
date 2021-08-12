@@ -1,7 +1,14 @@
+<!--
+ * @Author: your name
+ * @Date: 2021-08-11 22:57:37
+ * @LastEditTime: 2021-08-12 21:31:40
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: /vue2-big-data-list/src/App.vue
+-->
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+    <HelloWorld msg="vue2 大数据 展示 性能优化" />
   </div>
 </template>
 

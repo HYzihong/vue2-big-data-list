@@ -1,24 +1,16 @@
+<!--
+ * @Author: your name
+ * @Date: 2021-08-11 22:57:45
+ * @LastEditTime: 2021-08-12 21:31:28
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: /vue2-big-data-list/README.md
+-->
+
 # vue2-big-data-list
 
-## Project setup
-```
-yarn install
-```
+## 大数据量的展示优化
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- 大数据量的列表的优化
+- 大数据量的表单的优化
+- 大数据量的表格的优化
